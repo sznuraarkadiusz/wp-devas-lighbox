@@ -1,0 +1,1 @@
+# wp-devas-lighbox
